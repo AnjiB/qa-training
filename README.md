@@ -7,13 +7,19 @@
 		# Interface
 		# Polymorphism, Method Overloading and Overriding
 		# Constructors
+		# Inheritance (IS - A & HAS - A Relationships)
 		# Widening, boxing and unboxing
+		# static, super, this & final
 	# Data Types, Primitives, Wrapper Classes
+	# Arrays
+	# Control Structures - if, else, for, foreach, while, do-while, switch, break, continue
 	# Collections & Generics
 	# Exception Handling
 	# Input and Output
 	# Strings and Java String Memory Management
-	# Arrays
+	# SOLID Principles
+	# Java Design Patterns
+	# Java 8 - Streams, Lambdas, etc.,
 	
 # Selenium
 	# Selenium Architecture
@@ -45,7 +51,11 @@
 	# How to improve API Testing Performance
 	# Building API Testing Framework from Scratch with Realtime Project
 # Others
-	# Introduction to docker
+	# Introduction to Containerisation (Docker)
 	# Git Basics
 	# How to push, pull code, merge requests and code review process
 	# How to run tests in CI (Jenkins / GitLab)
+	# A/B testing, Internationalisation & Localisation Testing, Accessibility Testing and Client Side Performance Testing
+	# Test Design Techniques
+	# Test Pyramid
+	
