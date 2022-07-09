@@ -10,9 +10,11 @@
 		# Inheritance (IS - A & HAS - A Relationships)
 		# Widening, boxing and unboxing
 		# static, super, this & final
-	# Data Types, Primitives, Wrapper Classes
+	# Data Types
+	# Operators
 	# Arrays
 	# Control Structures - if, else, for, foreach, while, do-while, switch, break, continue
+	# Wrapper Classes
 	# Collections & Generics
 	# Exception Handling
 	# Input and Output
